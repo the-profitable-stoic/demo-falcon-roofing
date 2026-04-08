@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Falcon Roofing",
+    "phone": "+17027958811",
+    "category": "roofing contractor",
+    "city": "Las Vegas",
+    "state": "NV"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Vegas's Strongest Roofs, Guaranteed.",
+      "heroSubline": "Protecting your home from the desert heat and storms. Expert craftsmanship and lasting materials, installed right.",
+      "aboutTitle": "Built to Last in the Vegas Heat",
+      "aboutText": [
+        "Falcon Roofing started with a simple goal: to provide Las Vegas homeowners with roofing solutions that stand up to the brutal desert climate. We're not just roofers; we're your neighbors, committed to protecting your investment.",
+        "Our approach is straightforward: quality materials, skilled labor, and honest communication. We don't cut corners, and we always prioritize your satisfaction. We treat every project like it's our own home.",
+        "We're proud to be a part of the Las Vegas community. We support local charities and strive to create jobs right here in Nevada. When you choose Falcon Roofing, you're choosing a company that cares about more than just the bottom line."
+      ],
+      "valueProps": [
+        {
+          "title": "Desert-Tested Materials",
+          "description": "We use only the toughest, most durable roofing materials designed to withstand the Las Vegas heat and UV radiation."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our team of experienced roofers are trained to install your roof correctly the first time, ensuring long-lasting protection."
+        },
+        {
+          "title": "Clear Communication",
+          "description": "We keep you informed every step of the way, from the initial consultation to the final inspection. No surprises, just honest service."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand the unique challenges of roofing in Las Vegas and tailor our solutions to meet your specific needs."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Roofing Quote Today!",
+      "ctaSubline": "Protect your home with the strongest roof in Las Vegas. Contact us now for a no-obligation estimate."
+    },
+    "services": [
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Complete roof replacement services for lasting protection.",
+        "description": "Is your roof showing signs of age, damage, or wear? Don't wait until it's too late. Falcon Roofing offers complete roof replacement services, using only the highest-quality materials and expert installation techniques. We handle everything from the initial inspection and material selection to the removal of your old roof and the installation of your new one.\n\nWe understand that a new roof is a significant investment, which is why we offer a variety of roofing options to fit your budget and style. Whether you're looking for asphalt shingles, tile, or a metal roof, we'll help you choose the perfect solution for your Las Vegas home. Our team will ensure your new roof is installed correctly, providing lasting protection against the harsh desert climate. We'll also handle all necessary permits and inspections, making the process as smooth and stress-free as possible.\n\nProtect your home and family with a durable, reliable roof from Falcon Roofing. Contact us today for a free consultation and estimate.",
+        "process": [
+          "Step 1: Detailed roof inspection to assess damage and provide an accurate quote.",
+          "Step 2: Material selection assistance, choosing the best option for your budget and style.",
+          "Step 3: Removal of the old roof, ensuring proper disposal and site cleanup.",
+          "Step 4: Expert installation of the new roof, adhering to all building codes and manufacturer specifications."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved energy efficiency",
+          "Enhanced curb appeal",
+          "Long-lasting protection from the elements"
+        ],
+        "faq": [
+          {
+            "question": "How long does a roof replacement typically take?",
+            "answer": "Most roof replacements can be completed in 1-3 days, depending on the size and complexity of the roof. We'll provide you with a detailed timeline before starting the project."
+          },
+          {
+            "question": "What types of roofing materials do you offer?",
+            "answer": "We offer a wide variety of roofing materials, including asphalt shingles, tile, metal, and more. We'll help you choose the best option for your needs and budget."
+          },
+          {
+            "question": "Do you offer financing options?",
+            "answer": "Yes, we offer flexible financing options to help you afford the roof replacement you need. Contact us to learn more about our financing plans."
+          }
+        ]
+      },
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Fast and reliable roof repair services to stop leaks and prevent further damage.",
+        "description": "Don't let a small leak turn into a major problem. Falcon Roofing provides prompt and reliable roof repair services to address leaks, damaged shingles, and other roofing issues. Our experienced technicians will quickly diagnose the problem and provide an effective solution to protect your home. We handle all types of roof repairs, from minor patching to major structural repairs.\n\nWe understand the urgency of roof repairs, especially in the Las Vegas climate where extreme heat and occasional storms can quickly exacerbate existing damage. That's why we offer emergency repair services to address urgent issues and prevent further damage to your property. Our team will work quickly and efficiently to restore the integrity of your roof and protect your home from the elements.\n\nWhether you have a leaky roof, missing shingles, or storm damage, Falcon Roofing is here to help. Contact us today for fast and reliable roof repair services.",
+        "process": [
+          "Step 1: Thorough inspection to identify the source and extent of the damage.",
+          "Step 2: Detailed explanation of the repair options and associated costs.",
+          "Step 3: Efficient and effective repair using quality materials.",
+          "Step 4: Final inspection to ensure the repair is complete and the roof is watertight."
+        ],
+        "benefits": [
+          "Prevents further damage to your home",
+          "Extends the life of your roof",
+          "Saves money on costly replacements",
+          "Provides peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need a roof repair?",
+            "answer": "Common signs of roof damage include leaks, missing shingles, cracked tiles, and water stains on your ceiling. If you notice any of these signs, it's important to have your roof inspected by a professional."
+          },
+          {
+            "question": "How long does a roof repair take?",
+            "answer": "The duration of a roof repair depends on the extent of the damage. Minor repairs can often be completed in a few hours, while more extensive repairs may take a day or two."
+          },
+          {
+            "question": "Do you offer emergency roof repair services?",
+            "answer": "Yes, we offer emergency roof repair services to address urgent issues and prevent further damage to your property."
+          }
+        ]
+      },
+      {
+        "slug": "roof-inspections",
+        "name": "Roof Inspections",
+        "shortDescription": "Comprehensive roof inspections to identify potential problems before they become major issues.",
+        "description": "Protect your investment with a comprehensive roof inspection from Falcon Roofing. Our experienced inspectors will thoroughly examine your roof to identify potential problems, such as leaks, damaged shingles, and structural issues. We provide detailed reports with photos and recommendations for repairs or maintenance.\n\nRegular roof inspections are essential for maintaining the integrity of your roof and preventing costly repairs down the road. We recommend having your roof inspected at least once a year, especially after major storms or extreme weather events. Our inspections can help you identify potential problems early on, allowing you to address them before they escalate into major issues.\n\nWhether you're buying a new home, selling your current home, or simply want to ensure the health of your roof, Falcon Roofing provides reliable and thorough roof inspection services.",
+        "process": [
+          "Step 1: Visual inspection of the roof surface for damage and wear.",
+          "Step 2: Inspection of the attic for leaks and signs of water damage.",
+          "Step 3: Examination of the flashing, gutters, and other roof components.",
+          "Step 4: Detailed report with photos and recommendations."
+        ],
+        "benefits": [
+          "Identifies potential problems early on",
+          "Prevents costly repairs",
+          "Extends the life of your roof",
+          "Provides peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, and after any major storms or extreme weather events."
+          },
+          {
+            "question": "What is included in a roof inspection?",
+            "answer": "Our roof inspections include a thorough examination of the roof surface, attic, flashing, gutters, and other roof components. We provide a detailed report with photos and recommendations."
+          },
+          {
+            "question": "How much does a roof inspection cost?",
+            "answer": "The cost of a roof inspection depends on the size and complexity of the roof. Contact us for a free quote."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Services",
+        "shortDescription": "Gutter installation, repair, and cleaning to protect your home from water damage.",
+        "description": "Don't underestimate the importance of properly functioning gutters. Falcon Roofing offers complete gutter services, including installation, repair, and cleaning. We'll ensure your gutters are properly installed and maintained to protect your home from water damage. Clogged or damaged gutters can lead to serious problems, such as foundation damage, wood rot, and mold growth.\n\nWe offer a variety of gutter options to fit your needs and budget, including seamless gutters, aluminum gutters, and copper gutters. Our experienced technicians will install your gutters correctly the first time, ensuring proper drainage and long-lasting performance. We also provide gutter cleaning services to remove leaves, debris, and other obstructions that can clog your gutters and prevent them from functioning properly.\n\nProtect your home from water damage with reliable gutter services from Falcon Roofing. Contact us today for a free consultation and estimate.",
+        "process": [
+          "Step 1: Inspection of existing gutters for damage and clogs.",
+          "Step 2: Gutter cleaning to remove leaves, debris, and other obstructions.",
+          "Step 3: Gutter repair to fix leaks, sags, and other damage.",
+          "Step 4: Gutter installation of new or replacement gutters."
+        ],
+        "benefits": [
+          "Protects your home from water damage",
+          "Prevents foundation damage",
+          "Prevents wood rot and mold growth",
+          "Maintains the value of your home"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, in the spring and fall. If you have a lot of trees around your home, you may need to clean them more often."
+          },
+          {
+            "question": "What are seamless gutters?",
+            "answer": "Seamless gutters are custom-made on-site to fit your home perfectly. They eliminate seams, which reduces the risk of leaks and clogs."
+          },
+          {
+            "question": "How much do gutter services cost?",
+            "answer": "The cost of gutter services depends on the type of service and the size of your home. Contact us for a free quote."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-roof-repair",
+        "name": "Emergency Roof Repair",
+        "shortDescription": "24/7 emergency roof repair services to address urgent roofing issues.",
+        "description": "When disaster strikes, Falcon Roofing is here to help with our 24/7 emergency roof repair services. We understand that roofing emergencies can happen at any time, which is why we offer prompt and reliable service to address urgent issues and prevent further damage to your property. Whether you have a severe leak, storm damage, or other roofing emergency, our experienced technicians will respond quickly to assess the situation and provide an effective solution.\n\nWe're equipped to handle all types of roofing emergencies, from minor patching to major structural repairs. Our team will work quickly and efficiently to restore the integrity of your roof and protect your home from the elements. We also offer temporary repairs to prevent further damage while we develop a long-term solution.\n\nDon't wait until it's too late. Contact Falcon Roofing for 24/7 emergency roof repair services.",
+        "process": [
+          "Step 1: Immediate response to your emergency call.",
+          "Step 2: Rapid assessment of the damage and development of a repair plan.",
+          "Step 3: Efficient and effective repair using quality materials.",
+          "Step 4: Final inspection to ensure the repair is complete and the roof is watertight."
+        ],
+        "benefits": [
+          "Prevents further damage to your home",
+          "Provides peace of mind",
+          "Protects your family and belongings",
+          "Minimizes disruption to your life"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes a roofing emergency?",
+            "answer": "A roofing emergency is any situation that poses an immediate threat to your home or safety, such as a severe leak, storm damage, or structural collapse."
+          },
+          {
+            "question": "How quickly can you respond to a roofing emergency?",
+            "answer": "We strive to respond to roofing emergencies as quickly as possible, typically within a few hours."
+          },
+          {
+            "question": "What should I do while waiting for emergency roof repair?",
+            "answer": "While waiting for our team to arrive, try to contain the leak with buckets or tarps. Avoid going on the roof yourself, as this can be dangerous."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-roofing",
+        "name": "Commercial Roofing",
+        "shortDescription": "Expert commercial roofing services for businesses in Las Vegas.",
+        "description": "Falcon Roofing provides expert commercial roofing services for businesses throughout Las Vegas. We understand the unique needs of commercial properties and offer a wide range of roofing solutions to meet your specific requirements. Whether you need a new roof, a roof repair, or routine maintenance, our experienced team is here to help. We work with all types of commercial roofing systems, including flat roofs, metal roofs, and single-ply roofs.\n\nWe're committed to providing high-quality workmanship and exceptional customer service. Our team will work closely with you to understand your needs and develop a cost-effective roofing solution that meets your budget and timeline. We also offer preventative maintenance programs to help you extend the life of your roof and avoid costly repairs down the road.\n\nProtect your business with a durable and reliable roof from Falcon Roofing. Contact us today for a free consultation and estimate.",
+        "process": [
+          "Step 1: Detailed assessment of your commercial roofing needs.",
+          "Step 2: Development of a customized roofing solution.",
+          "Step 3: Expert installation or repair using quality materials.",
+          "Step 4: Ongoing maintenance and support."
+        ],
+        "benefits": [
+          "Protects your business from the elements",
+          "Extends the life of your roof",
+          "Reduces energy costs",
+          "Maintains the value of your property"
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial roofing systems do you work with?",
+            "answer": "We work with all types of commercial roofing systems, including flat roofs, metal roofs, and single-ply roofs."
+          },
+          {
+            "question": "Do you offer preventative maintenance programs?",
+            "answer": "Yes, we offer preventative maintenance programs to help you extend the life of your roof and avoid costly repairs down the road."
+          },
+          {
+            "question": "How much does commercial roofing cost?",
+            "answer": "The cost of commercial roofing depends on the size and complexity of the project. Contact us for a free quote."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Henderson",
+        "slug": "henderson-nv",
+        "state": "NV",
+        "content": "Falcon Roofing is proud to offer comprehensive roofing services to the residents and businesses of Henderson, Nevada. As a leading roofing contractor in the Las Vegas Valley, we understand the unique challenges that the Henderson climate presents to roofs. From intense summer heat to occasional monsoon rains, your roof needs to be able to withstand it all. We provide expert roof repair, replacement, and maintenance services to ensure your Henderson property is protected for years to come.\n\nHenderson is known for its master-planned communities that began development in the 1990s and continue to this day. These communities often have specific HOA requirements for roofing materials and aesthetics. Falcon Roofing is experienced in working with Henderson HOAs to ensure your new roof meets all necessary guidelines while providing superior protection and curb appeal. We offer a wide range of roofing options to suit your style and budget.",
+        "localContext": "Henderson, NV is a large city known for its master-planned communities developed from the 1990s to the 2020s and experiences extreme summer heat.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Paradise",
+          "Boulder City"
+        ]
+      },
+      {
+        "city": "North Las Vegas",
+        "slug": "north-las-vegas-nv",
+        "state": "NV",
+        "content": "Falcon Roofing is your trusted roofing partner in North Las Vegas, Nevada. We provide a full suite of roofing solutions, from minor repairs to complete roof replacements. We understand that North Las Vegas residents are looking for quality roofing services at an affordable price, and we strive to deliver exceptional value on every project. Our experienced team is committed to providing reliable and long-lasting roofing solutions that protect your home or business.\n\nNorth Las Vegas has seen significant growth in recent years, with many newer construction homes offering modern designs. Falcon Roofing is familiar with the roofing styles and materials commonly used in these newer developments. We offer a variety of roofing options to complement your home's architecture and provide superior protection against the harsh desert climate.",
+        "localContext": "North Las Vegas, NV features affordable, newer construction and experiences extreme summer heat.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Sunrise Manor",
+          "Nellis AFB"
+        ]
+      },
+      {
+        "city": "Summerlin",
+        "slug": "summerlin-nv",
+        "state": "NV",
+        "content": "Falcon Roofing is the premier roofing contractor serving Summerlin, Nevada. We understand that Summerlin homeowners have high expectations for quality and aesthetics. We are dedicated to providing top-notch roofing services that enhance the beauty and value of your home. From shingle repairs to complete tile roof installations, we have the expertise to handle any roofing project with precision and care.\n\nSummerlin is an upscale master-planned community known for its beautiful homes and meticulously maintained landscaping. Falcon Roofing is experienced in working with Summerlin homeowners and HOAs to ensure that your new roof meets all design guidelines and enhances the overall aesthetic of your property. We offer a wide selection of premium roofing materials to complement your home's style and provide lasting protection.",
+        "localContext": "Summerlin, NV is an upscale master-planned community developed from the 1990s to the 2020s and experiences extreme summer heat.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Paradise",
+          "Spring Valley"
+        ]
+      },
+      {
+        "city": "Las Vegas",
+        "slug": "las-vegas-nv",
+        "state": "NV",
+        "content": "Falcon Roofing provides expert roofing services to the vibrant city of Las Vegas, Nevada. We understand the unique demands the desert climate places on your roof, and we offer solutions designed to withstand extreme temperatures and occasional flash floods. Whether you need a minor repair, a complete roof replacement, or regular maintenance, our experienced team is here to help. We are committed to providing reliable and affordable roofing services to Las Vegas homeowners and businesses.\n\nFrom the historic downtown area to the sprawling suburbs, Las Vegas features a diverse range of architectural styles. Falcon Roofing has experience working with all types of roofs, from traditional shingle roofs to modern flat roofs. We offer a wide selection of roofing materials to complement your home's architecture and provide lasting protection against the elements.",
+        "localContext": "Las Vegas, NV is a large metropolitan area with diverse architecture and experiences extreme summer heat.",
+        "nearbyAreas": [
+          "Paradise",
+          "Henderson",
+          "North Las Vegas"
+        ]
+      },
+      {
+        "city": "Paradise",
+        "slug": "paradise-nv",
+        "state": "NV",
+        "content": "Falcon Roofing is proud to provide roofing services to Paradise, Nevada, home to the famous Las Vegas Strip. We understand the unique challenges of roofing in this high-profile area, from ensuring minimal disruption to businesses to complying with strict building codes. We offer a full range of roofing services, including repairs, replacements, and maintenance, all designed to protect your property and enhance its appeal.\n\nParadise features a mix of commercial and residential properties, each with its own unique roofing needs. Falcon Roofing has experience working with all types of roofs, from large commercial flat roofs to residential shingle roofs. We offer a variety of roofing solutions to meet your specific needs and budget, ensuring that your property is protected and looks its best.",
+        "localContext": "Paradise, NV is home to the Las Vegas Strip and features a mix of commercial and residential properties.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Winchester",
+          "Enterprise"
+        ]
+      },
+      {
+        "city": "Spring Valley",
+        "slug": "spring-valley-nv",
+        "state": "NV",
+        "content": "Falcon Roofing is your trusted roofing contractor in Spring Valley, Nevada. We are dedicated to providing top-quality roofing services to homeowners and businesses in this thriving community. From minor repairs to complete roof replacements, we have the expertise and experience to handle any roofing project with professionalism and care. We are committed to delivering exceptional customer service and ensuring your complete satisfaction.\n\nSpring Valley is a diverse community with a variety of home styles. Falcon Roofing offers a wide range of roofing options to complement your home's architecture and provide lasting protection against the elements. We are familiar with local building codes and HOA regulations, ensuring that your roofing project is completed correctly and efficiently.",
+        "localContext": "Spring Valley, NV is a diverse community with a variety of home styles and experiences the typical Vegas heat.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Summerlin",
+          "Enterprise"
+        ]
+      },
+      {
+        "city": "Enterprise",
+        "slug": "enterprise-nv",
+        "state": "NV",
+        "content": "Falcon Roofing is pleased to offer our expert roofing services to the growing community of Enterprise, Nevada. We understand the importance of a reliable roof in protecting your home or business, and we are committed to providing top-quality workmanship and exceptional customer service. Whether you need a minor repair or a complete roof replacement, our experienced team is here to help.\n\nEnterprise is a rapidly developing area with many new homes and businesses. Falcon Roofing is familiar with the latest roofing technologies and materials, ensuring that your new roof is both durable and energy-efficient. We offer a variety of roofing options to meet your specific needs and budget.",
+        "localContext": "Enterprise, NV is a rapidly developing area with many new homes and businesses.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Henderson",
+          "Spring Valley"
+        ]
+      },
+      {
+        "city": "Sunrise Manor",
+        "slug": "sunrise-manor-nv",
+        "state": "NV",
+        "content": "Falcon Roofing provides dependable roofing services to the residents and businesses of Sunrise Manor, Nevada. We understand the importance of having a reliable roof to protect against the harsh desert climate. From quick repairs to full roof replacements, we offer a comprehensive suite of services to meet your needs. Our goal is to provide quality workmanship at an affordable price, ensuring your satisfaction.\n\nSunrise Manor is a well-established community with a mix of residential and commercial properties. Falcon Roofing is experienced in working with various roof types common in the area, from traditional asphalt shingles to durable tile roofs. We are committed to providing customized solutions to fit your specific requirements and budget.",
+        "localContext": "Sunrise Manor, NV features a mix of residential and commercial properties and experiences the Vegas heat.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "North Las Vegas",
+          "Nellis AFB"
+        ]
+      },
+      {
+        "city": "Boulder City",
+        "slug": "boulder-city-nv",
+        "state": "NV",
+        "content": "Falcon Roofing is proud to serve the historic community of Boulder City, Nevada. We understand the unique character of this town and strive to provide roofing services that respect its architectural heritage. Whether you need a repair to your existing roof or a complete replacement with historically appropriate materials, we have the expertise to handle the job.\n\nBoulder City is known for its well-preserved historic buildings and strict building codes. Falcon Roofing is familiar with these regulations and can ensure that your roofing project meets all requirements. We offer a variety of roofing materials that are both durable and aesthetically pleasing, helping to maintain the charm of Boulder City.",
+        "localContext": "Boulder City, NV is a historic town with strict building codes and a unique architectural character.",
+        "nearbyAreas": [
+          "Henderson",
+          "Las Vegas",
+          "Searchlight"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "Falcon Roofing saved us! We had a major leak during a monsoon, and they were out here within hours. The technician, Mark, quickly found the source and patched it up. Professional, fast, and reasonably priced. Highly recommend!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Roof Replacement",
+        "text": "We needed a full roof replacement on our older home near Downtown. The Falcon Roofing crew was efficient and did a great job. There were a couple of minor delays due to material deliveries, but they kept us informed throughout the process. The new roof looks fantastic and should last for years.",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Gutter Cleaning",
+        "text": "Excellent service! Our gutters were completely clogged with leaves and debris. Falcon Roofing cleaned them out quickly and thoroughly. They also inspected the gutters for damage and made a few minor repairs. Very happy with their work.",
+        "date": "2025-05-01"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Roof Inspection",
+        "text": "I was buying a house in Summerlin and wanted a thorough roof inspection before closing. Falcon Roofing provided a detailed report with photos, pointing out a few potential issues that I was able to address with the seller. Very professional and knowledgeable.",
+        "date": "2025-04-10"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Emergency Roof Repair",
+        "text": "A tree branch fell on our roof during a windstorm. Falcon Roofing was out here within an hour to provide temporary repairs and prevent further damage. They were very responsive and helpful during a stressful situation.",
+        "date": "2025-03-18"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "Commercial Roofing",
+        "text": "Falcon Roofing did a great job replacing the roof on our small warehouse. The team was professional, efficient, and completed the project on time and within budget. I would definitely recommend them for commercial roofing needs.",
+        "date": "2025-02-25"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Falcon Roofing | Vegas's Top Roofing",
+        "description": "Expert roofing services in Las Vegas. Roof repair, replacement, inspections. Protect your home from the desert heat!"
+      },
+      "about": {
+        "title": "About Falcon Roofing | Las Vegas",
+        "description": "Learn about Falcon Roofing - your trusted local roofing contractor in Las Vegas, NV. Quality, reliable, and community-focused."
+      },
+      "services": {
+        "title": "Falcon Roofing Services | Las Vegas",
+        "description": "Comprehensive roofing services in Las Vegas. Repair, replacement, inspections, gutters. Get a free quote today!"
+      },
+      "contact": {
+        "title": "Contact Falcon Roofing | Las Vegas",
+        "description": "Contact Falcon Roofing for all your roofing needs in Las Vegas. Call us today for a free estimate!"
+      },
+      "reviews": {
+        "title": "Falcon Roofing Reviews | Las Vegas",
+        "description": "Read reviews from satisfied Falcon Roofing customers in Las Vegas. See why we're the trusted choice for roofing services."
+      },
+      "service-areas": {
+        "title": "Falcon Roofing Service Areas",
+        "description": "Falcon Roofing provides expert roofing services to Henderson, North Las Vegas, Summerlin, and the surrounding Las Vegas area."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "roof-repair": "/images/service-roof-repair.webp",
+      "roof-inspections": "/images/service-roof-inspections.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "emergency-roof-repair": "/images/service-emergency-roof-repair.webp",
+      "commercial-roofing": "/images/service-commercial-roofing.webp"
+    },
+    "servicesResponsive": {
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-inspections": {
+        "src": "/images/service-roof-inspections.webp",
+        "srcset": "/images/service-roof-inspections-400w.webp 400w, /images/service-roof-inspections-800w.webp 800w, /images/service-roof-inspections-1200w.webp 1200w, /images/service-roof-inspections.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-roof-repair": {
+        "src": "/images/service-emergency-roof-repair.webp",
+        "srcset": "/images/service-emergency-roof-repair-400w.webp 400w, /images/service-emergency-roof-repair-800w.webp 800w, /images/service-emergency-roof-repair-1200w.webp 1200w, /images/service-emergency-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-roofing": {
+        "src": "/images/service-commercial-roofing.webp",
+        "srcset": "/images/service-commercial-roofing-400w.webp 400w, /images/service-commercial-roofing-800w.webp 800w, /images/service-commercial-roofing-1200w.webp 1200w, /images/service-commercial-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
